@@ -1,5 +1,5 @@
 # cwFedAvg
-ICCV 2025 accepted paper, Class-Wise Federated Averaging for Efficient Personalization ([arXiv]([https://arxiv.org/abs/2406.07800]))
+ICCV 2025 accepted paper, Class-Wise Federated Averaging for Efficient Personalization ([arXiv](([https://arxiv.org/abs/2406.07800])))
 
 
 ### Dataset setting
