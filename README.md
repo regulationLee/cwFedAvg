@@ -7,7 +7,7 @@ performance of cwFedAvg with WDR over existing PFL methods through efficient per
 
 
 
-## Implementation
+## ⚙️ Implementation
 ### Dataset setting
 ```sh
 cd dataset
